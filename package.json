@@ -47,6 +47,6 @@
     "crypto-js": "^3.3.0",
     "fastestsmallesttextencoderdecoder": "^1.0.22",
     "mqtt": "^4.2.6",
-    "websocket-stream": "^5.5.2"
+    "websocket-stream": "github:smartersign/websocket-stream"
   }
 }
